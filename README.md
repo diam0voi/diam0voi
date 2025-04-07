@@ -91,7 +91,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/diam0voi/">
-    <img src="https://leetcode-stats.vercel.app/api?username=diam0voi&theme=Light" alt="diam0voi's LeetCode Stats"/>
+    <img src="https://leetcode-stats.vercel.app/api?username=diam0voi&theme=Dark" alt="diam0voi's LeetCode Stats"/>
   </a>
 </p>
 
@@ -114,3 +114,9 @@
 Из доступного публике - наковырял саунд-дизайн и написал заглавную тему для [bobby adventures](https://ewepu.itch.io/bobby-adventures)! <br>
 В будущем ищите меня на itch.io:
   <a href="https://https://diam0voi.itch.io" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" alt="Itch.io"/></a>
+
+---
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</p>
