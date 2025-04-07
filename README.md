@@ -68,8 +68,10 @@
 </p>
 
 <p align="center">
-  <img src="/github-metrics.svg" alt="Metrics" width="400">
-  
+  <img src="/metrics.plugin.languages.details.svg" alt="Metrics" width="400">
+</p>
+ 
+<p align="center">
   <a href="https://git.io/streak-stats">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diam0voi&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   </a>
