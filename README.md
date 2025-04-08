@@ -155,5 +155,6 @@
 ---
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /> <br>
+  <img src="https://komarev.com/ghpvc/?username=diam0voi" alt="Viewers" />
 </p>
