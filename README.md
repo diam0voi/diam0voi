@@ -84,8 +84,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.codewars.com/users/Diam0voi">
-    <img src="https://www.codewars.com/users/Diam0voi/badges/large" alt="Codewars Badge"/>
+  <a href="https://www.codewars.com/users/diam0voi">
+    <img src="https://www.codewars.com/users/diam0voi/badges/large" alt="Codewars Badge"/>
   </a>
 </p>
 
