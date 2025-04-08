@@ -156,5 +156,10 @@
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /> <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+    <img alt="github contribution grid snake animation" src="dist/github-snake.svg" />
+  </picture> <br>
   <img src="https://komarev.com/ghpvc/?username=diam0voi" alt="Viewers" />
 </p>
