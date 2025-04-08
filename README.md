@@ -5,7 +5,7 @@
 
 <p align="center">
   Привет! 👋 Мне 20, я студент бакалавриата по направлению "Прикладная математика и информатика". <br>
-  Увлекаюсь наукой и коммерческой разработкой, особенно на Python, и особенно -  <br> 
+  Увлекаюсь наукой и коммерческой разработкой, особенно на Python, и особенно - <br> 
   в областях Data Science, Machine Learning, и Back-end. Также интересна сфера System Analytics. <br>
   Всегда открыт к новым знаниям и интересным проектам!
 </p>
@@ -144,11 +144,12 @@
 ---
 
 ### 🎵 Увлечения
+
 <p align="left">
   &nbsp &nbsp &nbsp &nbsp Помимо кода, я большой поклонник музыки - люблю слушать разнообразные жанры и сам немного пишу. <br>
-  Из доступного публике - наковырял саунд-дизайн и написал заглавную тему для <a href="https://ewepu.itch.io/bobby-adventures" target="_blank" rel="noreferrer">bobby adventures!</a> <br>
-  В будущем ищите меня тут:
-  <a href="https://https://diam0voi.itch.io" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Itch.io-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" alt="Itch.io"/></a>
+  Из доступного публике - наковырял саунд-дизайн и написал заглавную тему для 2D-платформера <a href="https://ewepu.itch.io/bobby-adventures" target="_blank" rel="noreferrer">bobby adventures!</a> <br>
+  Также пишу стишки в стол и охочусь с камерой за интересными видами в мегаполисе😁 <br>
+  Могу назвать себя ценителем планеты Земля?..
 </p>
   
 ---
