@@ -90,7 +90,7 @@
       </td>
       <td valign="center">
         <a href="https://git.io/streak-stats">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=diam0voi&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+          <img src="https://streak-stats.demolab.com?user=diam0voi&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
         </a>
       </td>
     </tr>
