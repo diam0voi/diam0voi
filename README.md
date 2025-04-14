@@ -42,7 +42,8 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/></a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/></a>
   <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/></a>
-  <a href="https://www.assemblyscript.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/NASM,%20FASM%20-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="AssemblyScript"/></a>
+  <a href="https://github.com/tgrysztar/fasm" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-FASM-007AAC?style=for-the-badge&logo=assemblyscript&logoColor=white&labelColor=007AAC" alt="FASM Assembler"/></a>
+  <a href="https://github.com/netwide-assembler/nasm" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-NASM-000000?style=for-the-badge&logo=assemblyscript&logoColor=white&labelColor=007AAC" alt="NASM Assembler"/></a>
 </p> <p align="center">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Script"/></a>
   <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/></a>
