@@ -28,7 +28,8 @@
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/></a>
   <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" alt="DjangoREST"/></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI"/></a>
-  <a href="https://astral.sh/ruff" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/ruff-%23ffffff.svg?style=for-the-badge&logo=ruff&logoColor=FFD7FF64&color=black" alt="Ruff"/></a>
+  <a href="https://astral.sh/ruff" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/ruff-261230.svg?style=for-the-badge&logo=ruff&logoColor=FFD7FF64" alt="Ruff"/></a>
+  <a href="https://astral.sh/uv"><img src="https://img.shields.io/badge/uv-261230?logo=uv&logoColor=DE5FE9&style=for-the-badge" alt="uv version"></a>
   <a href="https://docs.pytest.org/en/stable/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3" alt="Pytest"/></a>
 </p>
 
@@ -47,12 +48,17 @@
 </p> <p align="center">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Script"/></a>
   <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/></a>
-  <a href="https://yaml.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515" alt="YAML"/></a>
+  <a href="https://yaml.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=CB171E" alt="YAML"/></a>
+  <a href="https://toml.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TOML-ffffff.svg?style=for-the-badge&logo=toml&logoColor=9C4121" alt="TOML"/></a>
+  <a href="https://www.w3.org/XML/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/XML-005FAD.svg?style=for-the-badge&logo=xml&logoColor=white" alt="XML"/></a>
+  <a href="https://www.uml.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/UML-ffffff.svg?style=for-the-badge&logo=uml&logoColor=FABD14" alt="UML"/></a>
+  <a href="https://www.json.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JSON-ffffff.svg?style=for-the-badge&logo=json&logoColor=black" alt="JSON"/></a>
   <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/></a>
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/></a>
 </p> <p align="center">
-  <a href="https://coveralls.io" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Coveralls-%23000000.svg?style=for-the-badge&logo=coveralls&logoColor=red&color=white" alt="Coveralls"/></a>
-  <a href="https://codecov.io" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white" alt="CodeCov"/></a>
+  <a href="https://coveralls.io" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Coveralls-ffffff.svg?style=for-the-badge&logo=coveralls&logoColor=red" alt="Coveralls"/></a>
+  <a href="https://codecov.io" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/codecov-ffffff.svg?style=for-the-badge&logo=codecov&logoColor=F01F7A" alt="CodeCov"/></a>
+  <a href="https://openssf.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/OpenSSF-3FB984.svg?style=for-the-badge&logoColor=white" alt="OpenSSF"/></a>
   <a href="https://www.codacy.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/codacy-%23ff0077.svg?style=for-the-badge&logo=codacy&logoColor=gray&color=white" alt="Codacy"/></a>
 </p>
 
@@ -60,7 +66,7 @@
 <p align="center">
   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="PyCharm"/></a>
   <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black" alt="WebStorm"/></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vs-code&logoColor=white" alt="VS Code"/></a>
   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio"/></a>
 </p> <p align="center">
   <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/></a>
@@ -73,8 +79,18 @@
   <a href="https://pages.github.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="Github Pages"/></a>
   <a href="https://github.com/dependabot" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white" alt="Dependabot"/></a>
 </p> <p align="center">
+  <a href="https://commitlint.js.org/"><img src="https://img.shields.io/badge/commitlint-FFFFFF?logo=commitlint&logoColor=000000&style=for-the-badge" alt="Commitlint"></a>
+  <a href="https://pre-commit.com/"><img src="https://img.shields.io/badge/pre--commit-000000?logo=precommit&logoColor=FAB040&labelColor=555&style=for-the-badge" alt="pre-commit"></a>
+</p> <p align="center">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a>
   <a href="https://www.aseprite.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E" alt="Aseprite"/></a>
+</p>
+
+**Стандарты:**
+<p align="center">
+  <a href="https://www.contributor-covenant.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Contributor%20Covenant-5E0D73.svg?style=for-the-badge&logo=contributorcovenant" alt="Contributor Covenant"/></a>
+  <a href="https://semver.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SemVer-3F4551.svg?style=for-the-badge&logo=semver&logoColor=blue" alt="SemVer"/></a>
+  <a href="https://www.conventionalcommits.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Conventional%20Commits-FE5196.svg?style=for-the-badge&logo=conventionalcommits&logoColor=white" alt="Conventional Commits"/></a>
 </p>
 
 ---
@@ -133,9 +149,12 @@
   <a href="https://www.coursera.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera"/></a>
   <a href="https://www.khanacademy.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white" alt="Khan Academy"/></a>
   <a href="https://www.edx.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white" alt="edX"/></a>
+  <a href="https://www.30secondsofcode.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/30%20seconds%20of%20code-007ACC.svg?style=for-the-badge&logo=30secondsofcode&logoColor=white" alt="30 seconds of code"/></a>
+  <a href="https://abuse.ch/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/abuse.ch-00465B.svg?logo=abusedotch&style=for-the-badge" alt="abuse.ch"/></a>
+  <a href="https://apps.ankiweb.net/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Anki-80C2EE.svg?style=for-the-badge&logo=anki&logoColor=white" alt="Anki"/></a>
   <a href="https://www.researchgate.net/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate"/></a>
-</p>
-<p align="center">
+  <a href="https://www.elsevier.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Elsevier-FF6C2C.svg?style=for-the-badge&logo=elsevier&logoColor=white" alt="Elsevier"/></a>
+</p><p align="center">
   <a href="https://gemini.google.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white" alt="Google Gemini"/></a>
   <a href="https://openai.com/chatgpt/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/></a>
   <a href="https://copilot.github.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white" alt="GitHub Copilot"/></a>
