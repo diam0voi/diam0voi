@@ -48,6 +48,7 @@
 </p> <p align="center">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Script"/></a>
   <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PowerShell-22364c.svg?style=for-the-badge" alt="PowerShell"/></a>
+  <a href="https://chocolatey.org/" target="_blank" rel="noreferrer"><img alt="Chocolatey" src="https://img.shields.io/badge/chocolatey-954804?style=for-the-badge&logo=chocolatey&logoColor=80b5e3&logoSize=auto"></a>
   <a href="https://yaml.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=CB171E" alt="YAML"/></a>
   <a href="https://toml.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TOML-ffffff.svg?style=for-the-badge&logo=toml&logoColor=9C4121" alt="TOML"/></a>
   <a href="https://www.w3.org/XML/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/XML-ffffff.svg?style=for-the-badge&logo=xml&logoColor=005faf&logoSize=auto" alt="XML"/></a>
