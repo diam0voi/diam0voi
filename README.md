@@ -85,6 +85,8 @@
 </p> <p align="center">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a>
   <a href="https://www.aseprite.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Aseprite-ffffff?style=for-the-badge&logo=Aseprite&logoColor=7d929e" alt="Aseprite"/></a>
+  <a href="https://excalidraw.com/" target="_blank" rel="noreferrer"><img alt="Excalidraw" src="https://img.shields.io/badge/excalidraw-110044?style=for-the-badge&logo=excalidraw&logoColor=6965DB&logoSize=auto"></a>
+
 </p>
 
 **Стандарты:**
