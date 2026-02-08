@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 
-![Current license: AGPLv3](https://www.gnu.org/graphics/agplv3-155x51.png)  [![Viewers count](https://komarev.com/ghpvc/?username=diam0voi)](https://github.com/antonkomarev/github-profile-views-counter)
+
+![Current license: AGPLv3](https://www.gnu.org/graphics/agplv3-155x51.png)  [![Viewers count](https://komarev.com/ghpvc/?username=diam0voi)](https://github.com/antonkomarev/github-profile-views-counter&style=for-the-badge&color=b8e382)
 
 [![Payin respect 2 da Free Software Foundation](https://static.fsf.org/nosvn/appeal2022/spring/social-banner.png)](https://www.fsf.org/about/)
 
