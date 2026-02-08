@@ -1,11 +1,14 @@
-## Hi there 👋
 
 
+### ⭐ My besties
 
-![Current license: AGPLv3](https://www.gnu.org/graphics/agplv3-155x51.png)  [![Viewers count](https://komarev.com/ghpvc/?username=diam0voi)](https://github.com/antonkomarev/github-profile-views-counter&style=for-the-badge&color=b8e382)
 
-[![Payin respect 2 da Free Software Foundation](https://static.fsf.org/nosvn/appeal2022/spring/social-banner.png)](https://www.fsf.org/about/)
+[![Current license: AGPLv3](https://www.gnu.org/graphics/agplv3-155x51.png)](LICENSE)  [![Viewers count](https://komarev.com/ghpvc/?username=diam0voi&style=for-the-badge&color=AA98ED)](https://github.com/antonkomarev/github-profile-views-counter)
 
+![kek](https://github-readme-streak-stats-git-vercel-ostaps-projects-385119cb.vercel.app/?user=diam0voi)
+
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)  [![Readme jokes](https://readme-jokes.vercel.app/api?qColor=%2389E2E8&aColor=%23FFA16F)](https://github.com/ABSphreak/readme-jokes)
 
 <!--
 Here are some ideas to get me started:
