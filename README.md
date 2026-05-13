@@ -148,8 +148,6 @@
 [![GitHub Profile Trophies](https://github-profile-trophy-five-drab.vercel.app/?username=diam0voi&theme=monokai&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 [![Codewars Stats](https://www.codewars.com/users/diam0voi/badges/large)](https://www.codewars.com/users/diam0voi)
 
-<img alt="Pixelated profile summary" src="https://pixel-profile.vercel.app/api/github-stats?username=diam0voi&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=false&theme=journey&theme=journey&color=%23ffffffFF">
-
 ***
 
 ### 😀 About me
